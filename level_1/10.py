@@ -1,6 +1,6 @@
 
 
-def stringify(value: str | float | None) -> str:
+def stringify(value: str | int | float | None) -> str:
     pass
 
 
