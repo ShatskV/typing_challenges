@@ -1,5 +1,5 @@
 
-def ban_users(users_ids: set) -> int:
+def ban_users(users_ids: set[int]) -> int:
     pass
 
 
